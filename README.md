@@ -1,6 +1,6 @@
 # Introduction_to_Computing-Homework-and-Test-Answer
 
-This is my own code for Introduction to Computing, Yan Hongfei 2022Fall,PKU. All these codes have acquired AC on openjudge or codeforce.
+This is my own code for Introduction to Computing, Yan Hongfei 2022Fall, PKU. I am one of teaching assistants of the class. All these codes have acquired AC on openjudge or codeforce.
 
 Codes are organized according to their assignment time. For example, 1.py consists of answers to the first homework.
 
